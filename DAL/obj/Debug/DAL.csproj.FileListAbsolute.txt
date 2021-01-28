@@ -1,0 +1,6 @@
+D:\Dev - Mini project\CSV Loader Mini project\DAL\bin\Debug\DAL.dll
+D:\Dev - Mini project\CSV Loader Mini project\DAL\bin\Debug\DAL.pdb
+D:\Dev - Mini project\CSV Loader Mini project\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Dev - Mini project\CSV Loader Mini project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Dev - Mini project\CSV Loader Mini project\DAL\obj\Debug\DAL.dll
+D:\Dev - Mini project\CSV Loader Mini project\DAL\obj\Debug\DAL.pdb

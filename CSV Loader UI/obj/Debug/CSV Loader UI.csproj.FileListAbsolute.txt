@@ -1,0 +1,43 @@
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\CSV Loader UI.exe.config
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\CSV Loader UI.exe
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\CSV Loader UI.pdb
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\API.dll
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.Web.Optimization.dll
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.Web.Mvc.dll
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.Web.Http.dll
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\Newtonsoft.Json.dll
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.Net.Http.Formatting.dll
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.Web.Http.WebHost.dll
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\WebGrease.dll
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.Web.WebPages.dll
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.Web.Razor.dll
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\Antlr3.Runtime.dll
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\API.pdb
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\API.dll.config
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.Web.Optimization.xml
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.Web.Mvc.xml
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.Web.Http.xml
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\Newtonsoft.Json.xml
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.Net.Http.Formatting.xml
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.Web.Http.WebHost.xml
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.Web.WebPages.xml
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.Web.Razor.xml
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\Antlr3.Runtime.pdb
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\obj\Debug\CSV Loader UI.csprojAssemblyReference.cache
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\obj\Debug\CSV Loader UI.csproj.CoreCompileInputs.cache
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\obj\Debug\CSV Loader UI.csproj.CopyComplete
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\obj\Debug\CSV Loader UI.exe
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\obj\Debug\CSV Loader UI.pdb
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\CsvHelper.dll
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.ValueTuple.dll
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\CsvHelper.xml
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\System.ValueTuple.xml
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\DAL.dll
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\DAL.pdb
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\BusinessLayer.dll
+D:\Dev - Mini project\CSV Loader Mini project\CSV Loader UI\bin\Debug\BusinessLayer.pdb

@@ -1,0 +1,13 @@
+D:\Dev - Mini project\CSV Loader Mini project\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Dev - Mini project\CSV Loader Mini project\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Dev - Mini project\CSV Loader Mini project\BusinessLayer\bin\Debug\DAL.dll
+D:\Dev - Mini project\CSV Loader Mini project\BusinessLayer\bin\Debug\DAL.pdb
+D:\Dev - Mini project\CSV Loader Mini project\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\Dev - Mini project\CSV Loader Mini project\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Dev - Mini project\CSV Loader Mini project\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\Dev - Mini project\CSV Loader Mini project\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Dev - Mini project\CSV Loader Mini project\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Dev - Mini project\CSV Loader Mini project\BusinessLayer\bin\Debug\CsvHelper.dll
+D:\Dev - Mini project\CSV Loader Mini project\BusinessLayer\bin\Debug\System.ValueTuple.dll
+D:\Dev - Mini project\CSV Loader Mini project\BusinessLayer\bin\Debug\CsvHelper.xml
+D:\Dev - Mini project\CSV Loader Mini project\BusinessLayer\bin\Debug\System.ValueTuple.xml
